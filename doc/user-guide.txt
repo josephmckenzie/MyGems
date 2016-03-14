@@ -1,0 +1,6 @@
+This is My Guide for the gem, which is nothing really right now as this is only a simple hello world gem
+
+To try it out just type require it in a ruby file
+if you type in  Myfirsthelloworldgem.hi
+
+It will display the message i created
